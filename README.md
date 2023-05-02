@@ -1,8 +1,6 @@
 - 👋️ Hi, I’m @amirhrafati 🤵
 - 👀 I’m interested in Matrix 👨‍💻
-- 🌱 I’m currently learning Vue 🍕
 - 💞️ I’m looking to collaborate on Future 🥽
-- 📫 How to reach me 🖐STOP you can't ⛔
 
 <!---
 amirhrafati/amirhrafati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
